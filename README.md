@@ -27,3 +27,4 @@ are stated below.
 - Compute Dense Disparity Map.
 
 ![Epipolar Lines](https://github.com/yashmewada9618/Sterreo-Vision/blob/main/Scripts/Epipolarlines.jpg)
+![Disparity](https://github.com/yashmewada9618/Sterreo-Vision/blob/main/Scripts/Disparity.png)
